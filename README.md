@@ -1,2 +1,2 @@
 # scrizzle
-test javascripts scripts
+scrizzle jizz (test javascripts scripts)
