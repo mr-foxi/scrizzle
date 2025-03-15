@@ -1,1 +1,1 @@
-alert('WARNING')
+<button onclick="alert('WARNING')">SAFETY BUTTON</butotn>
