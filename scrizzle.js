@@ -1,1 +1,1 @@
-<button onclick="alert('WARNING')">SAFETY BUTTON</butotn>
+<img src="x" onerrror="alert('WARNING')" />
