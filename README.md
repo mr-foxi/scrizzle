@@ -1,2 +1,2 @@
 # scrizzle
-Test javascript to test site injection
+Test javascript to validate site injection
